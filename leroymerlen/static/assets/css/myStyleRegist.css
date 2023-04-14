@@ -1,0 +1,44 @@
+body {
+	background-color: lightgreen;
+}
+
+.container {
+	margin: 50px auto;
+	width: 400px;
+	background-color: white;
+	padding: 20px;
+	border-radius: 5px;
+}
+
+h1 {
+	text-align: center;
+	color: green;
+}
+
+input {
+	width: 90%;
+	padding: 12px 20px;
+	margin: 8px;
+	display: inline-block;
+	border-radius: 4px;
+}
+
+button {
+	background-color: green;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px;
+	border-radius: 4px;
+}
+
+.container a {
+	color: green;
+}
+
+.signin {
+	background-color: white;
+	text-align: center;
+	padding: 10px;
+	border-radius: 5px;
+	margin-top: 20px;
+}
